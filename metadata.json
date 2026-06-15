@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Architecture Academy",
+  "description": "An educational application designed to help users learn to craft high-quality, repeatable LLM prompts using industry-standard templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
