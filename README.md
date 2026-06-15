@@ -1,8 +1,12 @@
+
 # Prompt Architecture Academy 🏛️
+<img width="626" height="480" alt="Screenshot 2026-06-15 124015" src="https://github.com/user-attachments/assets/4eb9173f-d47f-4b9f-b52c-20d3ef729555" />
+<img width="684" height="735" alt="Screenshot 2026-06-15 124722" src="https://github.com/user-attachments/assets/b2771d07-c192-4bb4-961e-428ad2d4303a" />
 
 An interactive, production-grade educational web application designed to level-up your prompt engineering skills. Learn to translate raw, basic ideas into durable, highly repeatable, and reliable system prompts using industry-standard scaffolding frameworks.
 
 ## 🚀 Key Features
+
 
 *   **Dynamic Workbench**:
     *   **Phase 1 — Structural Analysis**: Evaluates your raw idea to identify ambiguities and potential hallucination vectors.
@@ -12,7 +16,11 @@ An interactive, production-grade educational web application designed to level-u
 *   **Offline Case Studies**: Three interactive mock evaluations comparing raw, brittle original queries with optimized, structured production-ready templates.
 *   **Universal Local LLM Gateway**: Connects the custom compiler to local offline models (like Ollama, LM Studio, or custom OpenAI-compatible endpoints) complete with a real-time connection debugger.
 *   **Interactive Flow Guide**: An interactive visual walkthrough explaining how the blueprint workflow mitigates AI generation variance.
-
+<img width="617" height="571" alt="Screenshot 2026-06-15 124021" src="https://github.com/user-attachments/assets/44a34da4-6524-4dbf-b899-68a8dfa7e338" />
+<img width="621" height="462" alt="Screenshot 2026-06-15 124030" src="https://github.com/user-attachments/assets/89f61971-3e1c-43cf-8ce1-0d96bce56cf4" />
+<img width="610" height="677" alt="Screenshot 2026-06-15 124037" src="https://github.com/user-attachments/assets/1af4a1b0-8ccf-405a-ace2-d28ceb887a21" />
+<img width="613" height="741" alt="Screenshot 2026-06-15 124103" src="https://github.com/user-attachments/assets/d5d49fdb-7001-4a31-bf61-fe4053ac70eb" />
+<img width="615" height="807" alt="Screenshot 2026-06-15 124111" src="https://github.com/user-attachments/assets/cae741f5-4358-4583-8e76-aaa10984f538" />
 ---
 
 ## 🛠️ Prompt Architectures Taught
