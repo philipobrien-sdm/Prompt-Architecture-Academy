@@ -77,7 +77,7 @@ npm start
 ---
 
 ## 🧪 Local LLM Integration Guidelines
-
+<img width="1304" height="386" alt="Screenshot 2026-06-15 125545" src="https://github.com/user-attachments/assets/17429277-fa12-435f-a4f1-6da2fc782038" />
 To use local offline models, choose **Local LLM Mode** in the App header:
 *   **Ollama Connection**:
     - Default Endpoint: `http://localhost:11434/v1`
